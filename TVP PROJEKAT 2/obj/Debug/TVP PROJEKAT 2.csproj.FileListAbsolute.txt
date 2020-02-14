@@ -1,0 +1,11 @@
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\bin\Debug\TVP PROJEKAT 2.exe.config
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP PROJEKAT 2.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP_PROJEKAT_2.Form1.resources
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP_PROJEKAT_2.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP PROJEKAT 2.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\bin\Debug\TVP PROJEKAT 2.exe
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\bin\Debug\TVP PROJEKAT 2.pdb
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP_PROJEKAT_2.Artikli.resources
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP_PROJEKAT_2.Računi.resources
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP PROJEKAT 2.exe
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 2\TVP PROJEKAT 2\obj\Debug\TVP PROJEKAT 2.pdb
